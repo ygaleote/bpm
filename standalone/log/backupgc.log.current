@@ -1,0 +1,15 @@
+Java HotSpot(TM) 64-Bit Server VM (25.231-b11) for windows-amd64 JRE (1.8.0_231-b11), built on Oct  5 2019 03:11:30 by "java_re" with MS VC++ 10.0 (VS2010)
+Memory: 4k page, physical 8251556k(2202092k free), swap 12970148k(4477180k free)
+CommandLine flags: -XX:CompressedClassSpaceSize=260046848 -XX:GCLogFileSize=3145728 -XX:InitialHeapSize=1366294528 -XX:MaxHeapSize=1366294528 -XX:MaxMetaspaceSize=268435456 -XX:MetaspaceSize=100663296 -XX:NumberOfGCLogFiles=5 -XX:+PrintGC -XX:+PrintGCDateStamps -XX:+PrintGCDetails -XX:+PrintGCTimeStamps -XX:-TraceClassUnloading -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:+UseGCLogFileRotation -XX:-UseLargePagesIndividualAllocation -XX:+UseParallelGC 
+2020-06-17T10:03:36.272-0500: 16.877: [GC (Allocation Failure) [PSYoungGen: 334336K->16254K(389632K)] 334336K->16270K(1280000K), 0.2839376 secs] [Times: user=0.20 sys=0.03, real=0.28 secs] 
+2020-06-17T10:03:53.773-0500: 34.315: [GC (GCLocker Initiated GC) [PSYoungGen: 350590K->30976K(389632K)] 350606K->31008K(1280000K), 0.0443407 secs] [Times: user=0.06 sys=0.03, real=0.05 secs] 
+2020-06-17T11:05:36.986-0500: 3737.476: [GC (Allocation Failure) [PSYoungGen: 365312K->49064K(389632K)] 365346K->49114K(1280000K), 0.2490873 secs] [Times: user=0.22 sys=0.53, real=0.25 secs] 
+Heap
+ PSYoungGen      total 389632K, used 114151K [0x00000000e4d80000, 0x0000000100000000, 0x0000000100000000)
+  eden space 334336K, 19% used [0x00000000e4d80000,0x00000000e8d0fa68,0x00000000f9400000)
+  from space 55296K, 88% used [0x00000000f9400000,0x00000000fc3ea238,0x00000000fca00000)
+  to   space 55296K, 0% used [0x00000000fca00000,0x00000000fca00000,0x0000000100000000)
+ ParOldGen       total 890368K, used 50K [0x00000000ae800000, 0x00000000e4d80000, 0x00000000e4d80000)
+  object space 890368K, 0% used [0x00000000ae800000,0x00000000ae80c970,0x00000000e4d80000)
+ Metaspace       used 59374K, capacity 66438K, committed 66560K, reserved 1105920K
+  class space    used 7642K, capacity 9671K, committed 9728K, reserved 1048576K

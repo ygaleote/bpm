@@ -1,0 +1,141 @@
+2020-06-24 22:01:45,822 INFO  [org.jboss.modules] (main) JBoss Modules version 1.8.6.Final-redhat-00001
+2020-06-24 22:01:54,822 INFO  [org.jboss.msc] (main) JBoss MSC version 1.4.5.Final-redhat-00001
+2020-06-24 22:01:54,845 INFO  [org.jboss.threads] (main) JBoss Threads version 2.3.2.Final-redhat-1
+2020-06-24 22:01:55,430 INFO  [org.jboss.as] (MSC service thread 1-2) WFLYSRV0049: JBoss EAP 7.2.0.GA (WildFly Core 6.0.11.Final-redhat-00001) iniciando
+2020-06-24 22:01:55,446 DEBUG [org.jboss.as.config] (MSC service thread 1-2) Propiedades del sistema configuradas:
+	awt.toolkit = sun.awt.windows.WToolkit
+	file.encoding = Cp1252
+	file.encoding.pkg = sun.io
+	file.separator = \
+	java.awt.graphicsenv = sun.awt.Win32GraphicsEnvironment
+	java.awt.printerjob = sun.awt.windows.WPrinterJob
+	java.class.path = C:\Users\yordi.galeote\Desktop\bpm\jboss-eap-7.2\jboss-modules.jar
+	java.class.version = 52.0
+	java.endorsed.dirs = C:\JavaSDK\jre\lib\endorsed
+	java.ext.dirs = C:\JavaSDK\jre\lib\ext;C:\Windows\Sun\Java\lib\ext
+	java.home = C:\JavaSDK\jre
+	java.io.tmpdir = C:\Users\YORDI~1.GAL\AppData\Local\Temp\
+	java.library.path = C:\JavaSDK\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\maven\bin;C:\Program Files\PuTTY\;C:\xampp\php;C:\composer;C:\Program Files\Symfony;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files\Git\cmd;C:\Users\yordi.galeote\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\yordi.galeote\AppData\Local\Programs\Python\Python38-32\;C:\Users\yordi.galeote\AppData\Local\Microsoft\WindowsApps;C:\Users\yordi.galeote\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\yordi.galeote\AppData\Roaming\npm;C:\Users\yordi.galeote\AppData\Local\hyper\app-3.0.2\resources\bin;C:\Program Files\heroku\bin;C:\Users\yordi.galeote;C:\Users\yordi.galeote\Desktop\Legal Flow\Tests\drivers;C:\Users\yordi.galeote\AppData\Roaming\Composer\vendor\bin;.
+	java.net.preferIPv4Stack = true
+	java.runtime.name = Java(TM) SE Runtime Environment
+	java.runtime.version = 1.8.0_231-b11
+	java.specification.name = Java Platform API Specification
+	java.specification.vendor = Oracle Corporation
+	java.specification.version = 1.8
+	java.util.logging.manager = org.jboss.logmanager.LogManager
+	java.vendor = Oracle Corporation
+	java.vendor.url = http://java.oracle.com/
+	java.vendor.url.bug = http://bugreport.sun.com/bugreport/
+	java.version = 1.8.0_231
+	java.vm.info = mixed mode
+	java.vm.name = Java HotSpot(TM) 64-Bit Server VM
+	java.vm.specification.name = Java Virtual Machine Specification
+	java.vm.specification.vendor = Oracle Corporation
+	java.vm.specification.version = 1.8
+	java.vm.vendor = Oracle Corporation
+	java.vm.version = 25.231-b11
+	javax.management.builder.initial = org.jboss.as.jmx.PluggableMBeanServerBuilder
+	jboss.home.dir = C:\Users\yordi.galeote\Desktop\bpm\jboss-eap-7.2
+	jboss.host.name = s0007176
+	jboss.modules.dir = C:\Users\yordi.galeote\Desktop\bpm\jboss-eap-7.2\modules
+	jboss.modules.system.pkgs = org.jboss.byteman
+	jboss.node.name = s0007176
+	jboss.qualified.host.name = s0007176
+	jboss.server.base.dir = C:\Users\yordi.galeote\Desktop\bpm\jboss-eap-7.2\standalone
+	jboss.server.config.dir = C:\Users\yordi.galeote\Desktop\bpm\jboss-eap-7.2\standalone\configuration
+	jboss.server.data.dir = C:\Users\yordi.galeote\Desktop\bpm\jboss-eap-7.2\standalone\data
+	jboss.server.deploy.dir = C:\Users\yordi.galeote\Desktop\bpm\jboss-eap-7.2\standalone\data\content
+	jboss.server.log.dir = C:\Users\yordi.galeote\Desktop\bpm\jboss-eap-7.2\standalone\log
+	jboss.server.name = s0007176
+	jboss.server.persist.config = true
+	jboss.server.temp.dir = C:\Users\yordi.galeote\Desktop\bpm\jboss-eap-7.2\standalone\tmp
+	line.separator = 
+
+	logging.configuration = file:C:\Users\yordi.galeote\Desktop\bpm\jboss-eap-7.2\standalone\configuration/logging.properties
+	module.path = C:\Users\yordi.galeote\Desktop\bpm\jboss-eap-7.2\modules
+	org.jboss.boot.log.file = C:\Users\yordi.galeote\Desktop\bpm\jboss-eap-7.2\standalone\log\server.log
+	org.jboss.resolver.warning = true
+	os.arch = amd64
+	os.name = Windows 10
+	os.version = 10.0
+	path.separator = ;
+	program.name = standalone.bat
+	sun.arch.data.model = 64
+	sun.boot.class.path = C:\JavaSDK\jre\lib\resources.jar;C:\JavaSDK\jre\lib\rt.jar;C:\JavaSDK\jre\lib\sunrsasign.jar;C:\JavaSDK\jre\lib\jsse.jar;C:\JavaSDK\jre\lib\jce.jar;C:\JavaSDK\jre\lib\charsets.jar;C:\JavaSDK\jre\lib\jfr.jar;C:\JavaSDK\jre\classes
+	sun.boot.library.path = C:\JavaSDK\jre\bin
+	sun.cpu.endian = little
+	sun.cpu.isalist = amd64
+	sun.desktop = windows
+	sun.io.unicode.encoding = UnicodeLittle
+	sun.java.command = C:\Users\yordi.galeote\Desktop\bpm\jboss-eap-7.2\jboss-modules.jar -mp C:\Users\yordi.galeote\Desktop\bpm\jboss-eap-7.2\modules org.jboss.as.standalone -Djboss.home.dir=C:\Users\yordi.galeote\Desktop\bpm\jboss-eap-7.2
+	sun.java.launcher = SUN_STANDARD
+	sun.jnu.encoding = Cp1252
+	sun.management.compiler = HotSpot 64-Bit Tiered Compilers
+	sun.os.patch.level = 
+	sun.stderr.encoding = cp850
+	sun.stdout.encoding = cp850
+	user.country = MX
+	user.dir = C:\Users\yordi.galeote\Desktop\bpm\jboss-eap-7.2\bin
+	user.home = C:\Users\yordi.galeote
+	user.language = es
+	user.name = yordi.galeote
+	user.script = 
+	user.timezone = America/Mexico_City
+	user.variant = 
+2020-06-24 22:01:55,451 DEBUG [org.jboss.as.config] (MSC service thread 1-2) Argumentos de VM: -Dprogram.name=standalone.bat -Xms1G -Xmx1G -XX:MetaspaceSize=96M -XX:MaxMetaspaceSize=256m -Djava.net.preferIPv4Stack=true -Djboss.modules.system.pkgs=org.jboss.byteman -verbose:gc -Xloggc:C:\Users\yordi.galeote\Desktop\bpm\jboss-eap-7.2\standalone\log\gc.log -XX:+PrintGCDetails -XX:+PrintGCDateStamps -XX:+UseGCLogFileRotation -XX:NumberOfGCLogFiles=5 -XX:GCLogFileSize=3M -XX:-TraceClassUnloading -Dorg.jboss.boot.log.file=C:\Users\yordi.galeote\Desktop\bpm\jboss-eap-7.2\standalone\log\server.log -Dlogging.configuration=file:C:\Users\yordi.galeote\Desktop\bpm\jboss-eap-7.2\standalone\configuration/logging.properties 
+2020-06-24 22:02:02,742 INFO  [org.wildfly.security] (ServerService Thread Pool -- 27) ELY00001: WildFly Elytron version 1.6.1.Final-redhat-00001
+2020-06-24 22:02:16,534 INFO  [org.jboss.as.controller.management-deprecated] (Controller Boot Thread) WFLYCTL0028: El atributo 'security-realm' en el recurso en la dirección '/core-service=management/management-interface=http-interface' quedó obsoleto y quizás sea retirado en una versión futura. Consulte la descripción de atributos en la salida de la operación read-resource-description para aprender más sobre la depreciación.
+2020-06-24 22:02:16,607 INFO  [org.jboss.as.controller.management-deprecated] (ServerService Thread Pool -- 29) WFLYCTL0028: El atributo 'security-realm' en el recurso en la dirección '/subsystem=undertow/server=default-server/https-listener=https' quedó obsoleto y quizás sea retirado en una versión futura. Consulte la descripción de atributos en la salida de la operación read-resource-description para aprender más sobre la depreciación.
+2020-06-24 22:02:16,758 INFO  [org.jboss.as.server] (Controller Boot Thread) WFLYSRV0039: Creando el servicio de administración http utilizando el enlace de socket (management-http) 
+2020-06-24 22:02:16,854 INFO  [org.xnio] (MSC service thread 1-3) XNIO version 3.6.5.Final-redhat-00001
+2020-06-24 22:02:16,887 INFO  [org.xnio.nio] (MSC service thread 1-3) XNIO NIO Implementation Version 3.6.5.Final-redhat-00001
+2020-06-24 22:02:17,403 INFO  [org.jboss.as.clustering.infinispan] (ServerService Thread Pool -- 48) WFLYCLINF0001: Activando el sub-sistema Infinispan.
+2020-06-24 22:02:17,416 WARN  [org.jboss.as.txn] (ServerService Thread Pool -- 68) WFLYTX0013: El atributo node-identifier del /subsystem=transactions está configurado como el valor predeterminado. Esto es peligroso para los entornos que ejecutan varios servidores. Asegúrese de que el valor del atributo sea único.
+2020-06-24 22:02:17,513 INFO  [org.wildfly.extension.microprofile.config.smallrye._private] (ServerService Thread Pool -- 57) WFLYCONF0001: Activación del subsistema de configuración WildFly MicroProfile
+2020-06-24 22:02:17,521 INFO  [org.jboss.as.webservices] (ServerService Thread Pool -- 70) WFLYWS0002: Activando WebServices Extension
+2020-06-24 22:02:17,670 INFO  [org.wildfly.extension.microprofile.health.smallrye] (ServerService Thread Pool -- 58) WFLYHEALTH0001: Activación del subsistema de estado de Eclipse MicroProfile
+2020-06-24 22:02:17,753 INFO  [org.wildfly.extension.microprofile.opentracing] (ServerService Thread Pool -- 59) WFLYTRACEXT0001: Activación del subsistema MicroProfile OpenTracing
+2020-06-24 22:02:17,809 INFO  [org.jboss.as.security] (ServerService Thread Pool -- 66) WFLYSEC0002: Activando el sub-sistema de seguridad
+2020-06-24 22:02:18,107 INFO  [org.jboss.as.security] (MSC service thread 1-1) WFLYSEC0001: Versión PicketBox actual=5.0.3.Final-redhat-3
+2020-06-24 22:02:18,148 INFO  [org.jboss.as.jsf] (ServerService Thread Pool -- 55) WFLYJSF0007: Se activaron las siguientes implementaciones JSF: [main]
+2020-06-24 22:02:18,208 INFO  [org.jboss.as.naming] (ServerService Thread Pool -- 60) WFLYNAM0001: Activando el sub-sistema de nombrado
+2020-06-24 22:02:19,134 INFO  [org.jboss.as.mail.extension] (MSC service thread 1-4) WFLYMAIL0002: Sesión de correo desenlazada [java:jboss/mail/Default]
+2020-06-24 22:02:19,426 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-6) WFLYUT0003: Undertow 2.0.15.Final-redhat-00001 iniciando
+2020-06-24 22:02:19,429 INFO  [org.jboss.as.connector] (MSC service thread 1-6) WFLYJCA0009: Iniciando JCA sub-sistema (WildFly/IronJacamar 1.4.11.Final-redhat-00001)
+2020-06-24 22:02:19,599 INFO  [org.jboss.as.naming] (MSC service thread 1-4) WFLYNAM0003: Iniciando el servicio de nombrado
+2020-06-24 22:02:19,601 INFO  [org.jboss.as.connector.subsystems.datasources] (ServerService Thread Pool -- 41) WFLYJCA0004: Implementación del controlador que cumple con los requerimientos de JDBC class org.h2.Driver (versión 1.4)
+2020-06-24 22:02:20,310 INFO  [org.jboss.as.mail.extension] (MSC service thread 1-5) WFLYMAIL0001: Sesión de correo enlazada [java:jboss/mail/Default]
+2020-06-24 22:02:20,312 INFO  [org.jboss.as.connector.subsystems.datasources] (MSC service thread 1-5) WFLYJCA0010: Fuente de datos desenlazados [java:jboss/datasources/ExampleDS]
+2020-06-24 22:02:20,407 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-8) WFLYJCA0018: Servicio de controlador iniciado con driver-name = h2
+2020-06-24 22:02:21,454 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 69) WFLYUT0014: Creación de controlador de archivos para la ruta de acceso 'C:\Users\yordi.galeote\Desktop\bpm\jboss-eap-7.2/welcome-content' con las opciones s [directory-listing: 'false', follow-symlink: 'false', case-sensitive: 'true', safe-symlink-paths: '[]']
+2020-06-24 22:02:21,679 INFO  [org.jboss.as.jaxrs] (ServerService Thread Pool -- 50) WFLYRS0016: RESTEasy versión 3.6.1.SP2-redhat-00001
+2020-06-24 22:02:22,627 INFO  [org.wildfly.extension.io] (ServerService Thread Pool -- 49) WFLYIO001: Worker 'default' ha configurado automáticamente los hilos de núcleo 8 con los hilos de tareas 64 en base a los procesadores 4 disponibles.
+2020-06-24 22:02:22,670 INFO  [org.jboss.as.ejb3] (MSC service thread 1-4) WFLYEJB0481: El grupo estricto (slsb-strict-max-pool utiliza un tamaño de instancia máximo de 64 (por clase), el cual se deriva del tamaño de grupo del Worker de hilos. 
+2020-06-24 22:02:22,667 INFO  [org.jboss.as.ejb3] (MSC service thread 1-2) WFLYEJB0482: El grupo estricto mdb-strict-max-pool utiliza un tamaño de instancia máximo de 16 (por clase), el cual se deriva del número de CPUs en este host. 
+2020-06-24 22:02:23,143 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-1) WFLYUT0012: El servidor ha iniciado default-server.
+2020-06-24 22:02:23,182 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-1) WFLYUT0018: Host default-host iniciando
+2020-06-24 22:02:23,203 INFO  [org.jboss.as.ejb3] (MSC service thread 1-8) WFLYEJB0493: Suspensión del subsistema de EJB completa
+2020-06-24 22:02:23,435 INFO  [org.jboss.remoting] (MSC service thread 1-4) JBoss Remoting version 5.0.8.Final-redhat-1
+2020-06-24 22:02:23,498 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-6) WFLYUT0006: Undertow HTTP oyente default escuchando en 127.0.0.1:8080
+2020-06-24 22:02:23,837 INFO  [org.jboss.as.connector.subsystems.datasources] (MSC service thread 1-2) WFLYJCA0001: Fuente de datos enlazados [java:jboss/datasources/ExampleDS]
+2020-06-24 22:02:31,757 INFO  [org.jboss.as.patching] (MSC service thread 1-4) WFLYPAT0050: El ID de parche acumulativo JBoss EAP es: base, parches one-off incluyen: none
+2020-06-24 22:02:31,937 INFO  [org.jboss.as.server.deployment.scanner] (MSC service thread 1-3) WFLYDS0013: Inició FileSystemDeploymentService para el directorio C:\Users\yordi.galeote\Desktop\bpm\jboss-eap-7.2\standalone\deployments
+2020-06-24 22:02:33,635 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-6) WFLYUT0006: Undertow HTTPS oyente https escuchando en 127.0.0.1:8443
+2020-06-24 22:02:36,216 INFO  [org.jboss.ws.common.management] (MSC service thread 1-7) JBWS022052: Starting JBossWS 5.2.4.Final-redhat-00001 (Apache CXF 3.2.5.redhat-00001) 
+2020-06-24 22:02:36,430 INFO  [org.jboss.as.server] (Controller Boot Thread) WFLYSRV0212: Reanudando el servidor
+2020-06-24 22:02:36,438 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0060: Interfaz de administración http escuchando en http://127.0.0.1:9990/management
+2020-06-24 22:02:36,439 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0051: Consola de administración escuchando en http://127.0.0.1:9990
+2020-06-24 22:02:36,442 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0025: JBoss EAP 7.2.0.GA (WildFly Core 6.0.11.Final-redhat-00001) inició en 57905ms - Inició 306 de 527 servicios (321 servicios son perezosos, pasivos o por demanda)
+2020-06-24 22:38:47,271 INFO  [org.jboss.as.server] (Thread-2) WFLYSRV0236: Servidor suspendido sin tiempo de espera.
+2020-06-24 22:38:47,310 INFO  [org.jboss.as.ejb3] (Thread-2) WFLYEJB0493: Suspensión del subsistema de EJB completa
+2020-06-24 22:38:47,324 INFO  [org.jboss.as.server] (Thread-2) WFLYSRV0220: El apagado del servidor ha sido solicitado a través de una señal de SO.
+2020-06-24 22:38:47,367 INFO  [org.jboss.as.connector.subsystems.datasources] (MSC service thread 1-6) WFLYJCA0010: Fuente de datos desenlazados [java:jboss/datasources/ExampleDS]
+2020-06-24 22:38:47,370 INFO  [org.jboss.as.mail.extension] (MSC service thread 1-3) WFLYMAIL0002: Sesión de correo desenlazada [java:jboss/mail/Default]
+2020-06-24 22:38:47,374 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-1) WFLYUT0019: Host default-host deteniéndose
+2020-06-24 22:38:47,395 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-3) WFLYUT0008: Undertow HTTPS oyente https  está en suspendiéndose
+2020-06-24 22:38:47,401 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-3) WFLYUT0007: Undertow HTTPS oyente https se ha detenido, estaba vinculado a 127.0.0.1:8443
+2020-06-24 22:38:47,410 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-3) WFLYUT0008: Undertow HTTP oyente default  está en suspendiéndose
+2020-06-24 22:38:47,411 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-3) WFLYUT0007: Undertow HTTP oyente default se ha detenido, estaba vinculado a 127.0.0.1:8080
+2020-06-24 22:38:47,415 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-3) WFLYUT0004: Undertow 2.0.15.Final-redhat-00001 deteniéndose
+2020-06-24 22:38:47,480 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-7) WFLYJCA0019: Servicio de controlador detenido con driver-name = h2
+2020-06-24 22:38:47,506 INFO  [org.jboss.as] (MSC service thread 1-6) WFLYSRV0050: JBoss EAP 7.2.0.GA (WildFly Core 6.0.11.Final-redhat-00001) detenido en 176ms

@@ -1,0 +1,20 @@
+2020-06-17 10:04:08,362 INFO  [org.jboss.as.server.deployment.scanner] (MSC service thread 1-2) WFLYDS0013: Inició FileSystemDeploymentService para el directorio C:\Users\yordi.galeote\Desktop\bpm\jboss-eap-7.2\standalone\deployments
+2020-06-17 10:04:10,086 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-6) WFLYUT0006: Undertow HTTPS oyente https escuchando en 127.0.0.1:8443
+2020-06-17 10:04:13,348 INFO  [org.jboss.ws.common.management] (MSC service thread 1-5) JBWS022052: Starting JBossWS 5.2.4.Final-redhat-00001 (Apache CXF 3.2.5.redhat-00001) 
+2020-06-17 10:04:13,535 INFO  [org.jboss.as.server] (Controller Boot Thread) WFLYSRV0212: Reanudando el servidor
+2020-06-17 10:04:13,539 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0060: Interfaz de administración http escuchando en http://127.0.0.1:9990/management
+2020-06-17 10:04:13,540 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0051: Consola de administración escuchando en http://127.0.0.1:9990
+2020-06-17 10:04:13,540 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0025: JBoss EAP 7.2.0.GA (WildFly Core 6.0.11.Final-redhat-00001) inició en 53579ms - Inició 306 de 527 servicios (321 servicios son perezosos, pasivos o por demanda)
+2020-06-17 11:26:58,224 INFO  [org.jboss.as.server] (Thread-2) WFLYSRV0236: Servidor suspendido sin tiempo de espera.
+2020-06-17 11:26:58,296 INFO  [org.jboss.as.ejb3] (Thread-2) WFLYEJB0493: Suspensión del subsistema de EJB completa
+2020-06-17 11:26:58,314 INFO  [org.jboss.as.server] (Thread-2) WFLYSRV0220: El apagado del servidor ha sido solicitado a través de una señal de SO.
+2020-06-17 11:26:58,465 INFO  [org.jboss.as.connector.subsystems.datasources] (MSC service thread 1-2) WFLYJCA0010: Fuente de datos desenlazados [java:jboss/datasources/ExampleDS]
+2020-06-17 11:26:58,473 INFO  [org.jboss.as.mail.extension] (MSC service thread 1-8) WFLYMAIL0002: Sesión de correo desenlazada [java:jboss/mail/Default]
+2020-06-17 11:26:58,500 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-6) WFLYUT0008: Undertow HTTPS oyente https  está en suspendiéndose
+2020-06-17 11:26:58,503 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-1) WFLYUT0019: Host default-host deteniéndose
+2020-06-17 11:26:58,511 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-6) WFLYUT0007: Undertow HTTPS oyente https se ha detenido, estaba vinculado a 127.0.0.1:8443
+2020-06-17 11:26:58,512 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-6) WFLYUT0008: Undertow HTTP oyente default  está en suspendiéndose
+2020-06-17 11:26:58,513 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-6) WFLYUT0007: Undertow HTTP oyente default se ha detenido, estaba vinculado a 127.0.0.1:8080
+2020-06-17 11:26:58,519 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-2) WFLYUT0004: Undertow 2.0.15.Final-redhat-00001 deteniéndose
+2020-06-17 11:26:58,557 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-8) WFLYJCA0019: Servicio de controlador detenido con driver-name = h2
+2020-06-17 11:26:58,581 INFO  [org.jboss.as] (MSC service thread 1-4) WFLYSRV0050: JBoss EAP 7.2.0.GA (WildFly Core 6.0.11.Final-redhat-00001) detenido en 239ms
